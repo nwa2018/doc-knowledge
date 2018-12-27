@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "dev": "docsify serve -p 5001 -o"
+    "dev": "docsify serve -p 5401 -o"
   },
   "repository": {
     "type": "git",
