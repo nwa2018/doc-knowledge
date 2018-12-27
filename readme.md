@@ -4,6 +4,9 @@
 
 > 方面以后快速检索
 
+### 访问链接
+[https://nwa2018.github.io/doc-knowledge/](https://nwa2018.github.io/doc-knowledge/)
+
 ### 目录结构
 ```
 docs/              docs存放文档，根据模块拆分文档
