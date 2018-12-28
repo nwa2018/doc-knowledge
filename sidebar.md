@@ -6,6 +6,7 @@
   - [JS如何判断浏览器的语言](docs/javascript/check-browser-language.md)
   - [正则之最短匹配(懒惰匹配)](docs/javascript/reg-lazy-match.md)
   - [获取相对时间](docs/javascript/fetch-relative-time.md)
+  - [js时间戳与日期格式之间互转](docs/javascript/js-timestamp-date-transform.md)
 
 * **Css**
   - [overflow:hidden部分IOS失效](docs/css/overflow-hidden-invalid.md)
@@ -22,12 +23,18 @@
   - [express中设置res的header](docs/nodejs/express-set-header.md)
   - [npm包如何增加一个维护者](docs/nodejs/npm-add-user.md)
   - [取消nodejs对require模块的缓存](docs/nodejs/cancel-nodejs-require-cache.md)
+  - [全局安装的路径在哪](docs/nodejs/npm-install-global-path.md)
+  - [npm换源](docs/nodejs/npm-change-source.md)
 
 * **运维**
   - [如何查看ubuntu版本](docs/deploy/ubuntu-version.md)
+  - [本地开发环境配置Nginx](docs/deploy/local-nginx-dev.md)
 
 * **React**
   - [react插入待解析的dom字符串](docs/react/react-dom-resolve.md)
+
+* **调试**
+  - [Chrome修改user agent模拟微信内置浏览器](docs/debug/chrome-simulate-weixin-browser.md)
 
 * **Python**
   - [如何抓取页面中的视频](docs/python/grab-video.md)
